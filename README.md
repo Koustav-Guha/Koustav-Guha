@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-guha" alt="koustav-guha" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
-
-- 📫 How to reach me **Koustavguha1000@gmail.com**
+- 📫 How to reach me **koustavguha1000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-guha&show_icons=true&locale=en" alt="koustav-guha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-guha&" alt="koustav-guha" /></p>
-
