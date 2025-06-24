@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koustav Guha</h1>
-<h3 align="center">Learning. Building. Growing. Every day. 📈💻</h3>
+<h3 align="center">A CSE student exploring the world of web development with energy and curiosity💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-guha" alt="koustav-guha" /></a> </p>
 
