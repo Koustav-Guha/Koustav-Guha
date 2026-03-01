@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-guha" alt="koustav-guha" /></a> </p>
 
-- 📫 How to reach me **kguha901@gmail.com**
+- 📫 How to reach me **Koustavguha6@gmail.com**
 
 - ⚡ Fun fact **I Think I'm funny**
 
