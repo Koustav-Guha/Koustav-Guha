@@ -16,10 +16,9 @@ I'm CSE student from Bankura, West Bengal. Currently learning MERN stack ,also i
 
 | Institution | Degree | Duration |
 |---|---|---|
-| Bankura Unnayani Institute of Engineering  | Bachelor's of technology  | 2023-08 - 2027-07 |
+| Bankura Unnayani Institute of Engineering  | Bachelor's of technology  | 2023 - 2027 |
 
 ### Bachelor's of technology  in Computer Science 
-*Bankura Unnayani Institute of Engineering *
 
 ## 🌐 Connect with Me
 
@@ -34,10 +33,6 @@ I'm CSE student from Bankura, West Bengal. Currently learning MERN stack ,also i
 ### 💻 Programming Languages
 
 <img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
-
-### 💻 Mobile App Development
-
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
 
 ### 💻 Frontend Development
 
