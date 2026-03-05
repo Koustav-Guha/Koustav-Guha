@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koustav Guha</h1>
-<h3 align="center">A MERN stack learner</h3>
+<h3 align="center">A CSE student and MERN stack learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav-guha&label=Profile%20views&color=0e75b6&style=flat" alt="koustav-guha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-guha" alt="koustav-guha" /></a> </p>
 
 - 📫 How to reach me **Koustavguha6@gmail.com**
 
